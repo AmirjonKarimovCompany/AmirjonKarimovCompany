@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://amirjonkarimov.netlify.app/#about](https://amirjonkarimov.netlify.app/#about)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://t.me/Amirjon_Karimov_Blog" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png" alt="Amirjon_Karimov_Blog" height="45" width="40" /></a>
 <a href="https://www.linkedin.com/in/amirjon-karimov-6827b1256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amirjon_Karimov_Blog" height="30" width="40" /></a>
