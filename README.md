@@ -1,10 +1,10 @@
 [![MasterHead](https://ibb.co/WtJNS1h)](https://AmirjonKarimovCompany.netlify.app/)
-<h1 align="center">Hi 👋, We are Amirjon Karimov</h1>
-<h3 align="center">We are Junior Developer from Uzbekistan!</h3>
+<h1 align="center">Hi 👋, We are Bytefy Team</h1>
+<h3 align="center">We are Junior Developers from Uzbekistan!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirjonKarimovCompany&label=Profile%20views&style=flat" alt="AmirjonKarimovCompany"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bytefycompany&label=Profile%20views&style=flat" alt="AmirjonKarimovCompany"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirjonKarimovCompany" alt="AmirjonKarimovCompany" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytefycompany" alt="AmirjonKarimovCompany" /></a> </p>
 - 🔭 I’m currently working on Freelancer.
 
 - 🌱 I’m currently learning **Dart & Flutter**
