@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/WtJNS1h)](https://AmirjonKarimovCompany.netlify.app/)
+[![MasterHead](https://i.ibb.co/tXrwy5G/Amirjon-jpg.jpg)](https://AmirjonKarimovCompany.netlify.app/)
 <h1 align="center">Hi 👋, We are Bytefy Team</h1>
 <h3 align="center">We are Junior Developers from Uzbekistan!</h3>
 
